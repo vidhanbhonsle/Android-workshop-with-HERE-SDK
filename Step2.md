@@ -8,7 +8,7 @@
 
 ![alt text](/img/extract-ex.png)
 
-- Paste .aar file in the libs folder of HelloMap example
+- Paste copied .aar file in the libs folder of HelloMap example
 
 ![alt text](/img/extracted-ex.png)
 
