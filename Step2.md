@@ -13,7 +13,4 @@
 
 ![alt text](/img/extracted-ex.png)
 
-
-
-[![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s3.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step3.md) 
-
+[![Foo](/img/s3.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step3.md) 
