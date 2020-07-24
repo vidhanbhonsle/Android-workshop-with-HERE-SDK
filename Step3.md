@@ -19,15 +19,15 @@
 ![alt text](/img/credentials.png)
 
 - Create and start AVD
-    - Click on AVD Manager
+Click on AVD Manager
 
 ![alt text](/img/tools.png)
 
-    - Create a virtual device
+Create a virtual device
 
 ![alt text](/img/createAVD.png)
 
-    - Run virtual device
+Run virtual device
 
 ![alt text](/img/runAVD.png)
 
