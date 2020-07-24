@@ -40,9 +40,4 @@ An Android application which shows an interactive map.
 
 - Create a folder 'android workshop' and extract the downloaded file in the folder
 
-[![Foo](/img/s2.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
-
-
-
-
-
+[![Foo](/img/s2.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step2.md) 
