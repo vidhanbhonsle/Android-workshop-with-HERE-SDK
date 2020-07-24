@@ -32,5 +32,9 @@
 ![alt text](/img/runAVD.png)
 
 ### Build and run application
+- Click on Build in the menu and then click on Make Project. Wait until the build is complete.
+- Click on Run in the menu and then click on Run App.
+- Your app will load on the phone emulator.
+- Allow the permissions that the app needs.
 
 [![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step4.md) 
