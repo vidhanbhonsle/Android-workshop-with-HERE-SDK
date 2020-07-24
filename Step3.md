@@ -37,4 +37,6 @@
 - Your app will load on the phone emulator.
 - Allow the permissions that the app needs.
 
-[![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step4.md) 
+![alt text](/img/view.png)
+
+[![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step4.md) 
