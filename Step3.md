@@ -10,7 +10,13 @@
 ![alt text](/img/hellomap.png)
 
 ### Enter Credentials
+- Open AndroidManifest.xml file in Android Studio
+
+![alt text](/img/manifest-open.png)
+
+- From the downloaded crendential file, copy the Access Key ID and the Access Key Secret and paste it in the code.
+
+![alt text](/img/credentials.png)
 
 
-
-[![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s4.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step4.md) 
+[![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step4.md) 
