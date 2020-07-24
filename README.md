@@ -21,7 +21,7 @@ An Android application which shows an interactive map.
 #### Step 5 : Select instructions from the route to be displayed
 #### End    : Final Code and Resources
 
-###Lets begin!
+### Lets begin!
 
 ## **Step 1**
 ### Download HERE SDK from Developer Portal
