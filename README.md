@@ -15,8 +15,8 @@ An Android application which shows an interactive map.
 
 ## Steps
 #### Step 1 : Download HERE SDK from Developer Portal
-#### Step 2 : Import HERE SDK in Android Studio
-#### Step 3 : Load example, enter credentials, build and run application
+#### Step 2 : Add the HERE SDK framework to the app's libs folder
+#### Step 3 : Load example, enter credentials, build and run
 #### Step 4 : Select instructions from the route to be displayed
 #### End    : Final Code and Resources
 
