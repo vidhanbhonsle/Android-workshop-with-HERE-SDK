@@ -9,7 +9,7 @@
 ![alt text](/img/extract-ex.png)
 
 - Paste copied .aar file in the libs folder of HelloMap example
-    - *\android workshop\heresdk-explore-android-4.4.2.0.2491\HelloMap\app\libs
+    - \heresdk-explore-android-4.4.2.0.2491\HelloMap\app\libs
 
 ![alt text](/img/extracted-ex.png)
 
