@@ -22,7 +22,7 @@ An Android application which shows an interactive map.
 #### End    : Final Code and Resources
 
 ## **Step 1**
-## Download HERE SDK from Developer Portal
+### Download HERE SDK from Developer Portal
 
 
 [![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s1.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
