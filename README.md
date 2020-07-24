@@ -21,16 +21,9 @@ An Android application which shows an interactive map.
 #### Step 5 : Select instructions from the route to be displayed
 #### End    : Final Code and Resources
 
-## Acquire credentials from Developer Portal 
-To access any of the APIs, first get your credentials by signing up for a freemium account
+# Step 1
+## Download HERE SDK from Developer Portal
 
-[Register](https://developer.here.com/events/community-sa) for a free developer account</br>
-
-## Generate apikeys
-
-![Folding in action](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/RegistrationGif.gif)
-
-# Let's begin!
 
 [![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s1.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
 
