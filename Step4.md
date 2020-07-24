@@ -12,6 +12,10 @@
 
     mapView.getMapScene().addMapMarker(mapMarker);
 ```
+3. Run app to see the change
+
+![alt text](/img/marker.png)
+
 
 [![Foo](/img/s5.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step5.md) 
 
