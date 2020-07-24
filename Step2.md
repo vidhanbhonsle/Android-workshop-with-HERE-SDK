@@ -1,4 +1,4 @@
-# Render a Map and place a marker on our current position with a custom image
+## Step 2 : Import HERE SDK in Android Studio
 
 ## Copy the code below in the file 'index.html'
 
