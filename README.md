@@ -23,8 +23,10 @@ An Android application which shows an interactive map.
 
 ### Lets begin!
 
-## **Step 1**
-### Download HERE SDK from Developer Portal
+## Step 1: Download HERE SDK from Developer Portal
+### Acquire Android SDK Access Key and Secret
+- Login to your [HERE account](https://developer.here.com/events/community-sa) and click on your project
+- Scroll down on the Credential page to reach HERE SDKs for Android, iOS and Flutter section and click on 'Create Credentials'
 
 
 [![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s1.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
