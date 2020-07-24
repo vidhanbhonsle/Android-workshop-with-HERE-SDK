@@ -16,8 +16,8 @@ An Android application which shows an interactive map.
 ## Steps
 #### Step 1 : Download HERE SDK from Developer Portal
 #### Step 2 : Import HERE SDK in Android Studio
-#### Step 3 : Search for all hospitals around us and place markers on them
-#### Step 4 : Draw a Route to one of the Hospital
+#### Step 3 : Load example and enter credentials
+#### Step 4 : Build and run
 #### Step 5 : Select instructions from the route to be displayed
 #### End    : Final Code and Resources
 
