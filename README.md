@@ -38,8 +38,9 @@ An Android application which shows an interactive map.
 
 ![alt text](/img/HERESDK.png)
 
+- Create a folder 'android workshop' and extract the downloaded file in the folder
 
-[![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s1.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
+[![Foo](/img/s2.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
 
 
 
