@@ -31,4 +31,6 @@
 
 ![alt text](/img/runAVD.png)
 
+### Build and run application
+
 [![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step4.md) 
