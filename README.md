@@ -28,8 +28,15 @@ An Android application which shows an interactive map.
 - Login to your [HERE account](https://developer.here.com/events/community-sa) and click on your project
 - Scroll down on the Credential page to reach HERE SDKs for Android, iOS and Flutter section and click on 'Create Credentials'
 ![alt text](/img/create-credentials.png)
-- Download the file containing ACCESS KEY ID and SECRET
+
+- Download the file containing ACCESS KEY ID and SECRET and close the dialog window by clicking on 'Done'
+
 ![alt text](/img/download.png)
+
+- Scroll to 'Download SDK for Android (Explore Edition) version: X.X.X.X' and click to download
+
+![alt text](/img/HERESDK.png)
+
 
 [![Foo](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/img/s1.png)](https://github.com/vidhanbhonsle/Interactive-Map-Workshop/blob/master/Step1.md) 
 
