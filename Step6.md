@@ -1,6 +1,3 @@
-# Final Code and Resources
-Check [final code](/index.html) with modifications
-
 # Contact Information
 [![Foo](https://www.gettingstamped.com/wp-content/uploads/2015/02/Twitter-Logo.png)](https://twitter.com/heredev) 
 [![Foo](https://dl2.macupdate.com/images/icons128/50617.png?d=1489440003)](http://t.her.is/slack) 
