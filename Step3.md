@@ -1,4 +1,4 @@
-# Search for all hospitals around us and place markers on them
+## Step 3 : Load example, enter credentials, build and run application
 
 Add the following code before </script> tag
 
