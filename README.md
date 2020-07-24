@@ -4,13 +4,14 @@
 
 ## Introduction
 
-In this workshop we will learn how to create an interactive map using JS and REST APIs from the HERE Location Suite.
+In this workshop we will learn how to create an Android Application to show an interactive map with HERE SDK for Android Explore Edition.
 
 ## Prerequisites
-An IDE - [VS Code](https://code.visualstudio.com/download)
+[Freemium Account](https://developer.here.com/events/community-sa) to acquire HERE SDK for Andorid Explore Edition. 
+[Android Studio](https://developer.android.com/studio) for creating an Android Application.
 
 ## Expected Outcome
-An HTML page which shows a map when opened in a browser.
+An Android application which shows an interactive map.
 
 ![Folding in action](/img/outcome.png)
 
