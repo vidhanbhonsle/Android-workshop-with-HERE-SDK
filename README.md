@@ -13,11 +13,9 @@ In this workshop we will learn how to create an Android Application to show an i
 ## Expected Outcome
 An Android application which shows an interactive map.
 
-![Folding in action](/img/outcome.png)
-
 ## Steps
-#### Step 1 : Setup Visual Studio code
-#### Step 2 : Render a Map and place a marker on our current position with a custom image
+#### Step 1 : Download HERE SDK from Developer Portal
+#### Step 2 : Import HERE SDK in Android Studio
 #### Step 3 : Search for all hospitals around us and place markers on them
 #### Step 4 : Draw a Route to one of the Hospital
 #### Step 5 : Select instructions from the route to be displayed
